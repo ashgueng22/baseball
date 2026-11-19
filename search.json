@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Exploring Baseball History",
+    "section": "",
+    "text": "Welcome! This project explores the rich history of Major League Baseball through data from the Lahman Baseball Database, which tracks batting, pitching, and fielding statistics back to 1871. Across more than a century and a half of play, home run hitting has climbed dramatically — and while raw home run totals dipped sharply during shortened seasons like 1981, 1994, and 2020, adjusting for games played shows those seasons fit right into MLB’s long-run scoring trend.\nLooking at individual careers tells a similar story about eras of power hitting. Nine of MLB’s top 15 all-time home run leaders were active during the 1994–2009 steroid era, led by Barry Bonds with 762 career home runs and a record 73 in the 2001 season alone. Use the Home runs and Sluggers links in the navigation bar above to explore the full charts and tables."
+  },
+  {
+    "objectID": "sluggers.html",
+    "href": "sluggers.html",
+    "title": "Sluggers",
+    "section": "",
+    "text": "Player\nCareer Home Runs\nSeasons\n\n\n\n\nBarry Bonds\n762\n1986–2007\n\n\nHank Aaron\n755\n1954–1976\n\n\nBabe Ruth\n714\n1914–1935\n\n\nAlbert Pujols\n703\n2001–2022\n\n\nAlex Rodriguez\n696\n1994–2016\n\n\nWillie Mays\n660\n1948–1973\n\n\nKen Griffey\n630\n1989–2010\n\n\nJim Thome\n612\n1991–2012\n\n\nSammy Sosa\n609\n1989–2007\n\n\nFrank Robinson\n586\n1956–1976\n\n\nMark McGwire\n583\n1986–2001\n\n\nHarmon Killebrew\n573\n1954–1975\n\n\nRafael Palmeiro\n569\n1986–2005\n\n\nReggie Jackson\n563\n1967–1987\n\n\nManny Ramirez\n555\n1993–2011"
+  },
+  {
+    "objectID": "home-runs.html",
+    "href": "home-runs.html",
+    "title": "Home runs",
+    "section": "",
+    "text": "Season\nTotal Home Runs\nTotal Team-Games\nHR per Game\n\n\n\n\n1981\n1781\n2788\n0.64\n\n\n1994\n3306\n3200\n1.03\n\n\n2019\n6776\n4858\n1.39\n\n\n2020\n2304\n1796\n1.28"
+  }
+]
