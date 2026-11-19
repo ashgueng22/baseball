@@ -1,7 +1,5 @@
 ---
-title: "Baseball"
+title: "Exploring Baseball History"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome! This project explores the rich history of Major League Baseball through data, uncovering trends in player performance and how the game has changed over more than a century. Our analyses draw on the comprehensive [Lahman Baseball Database](https://sabr.org/lahman-database/), which tracks batting, pitching, and fielding statistics back to 1871.
